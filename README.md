@@ -103,6 +103,25 @@ landscape around such systems, without disclosing company IP.
 ## 📫 Contact
 
 📧 **rukman.research@outlook.com**
+## 📫 Contact & Profiles
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rukman-bernard" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rukman%20Bernard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Rukman Bernard" />
+  </a>
+  &nbsp;
+  <a href="https://orcid.org/0009-0001-2737-8367" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0001--2737--8367-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID: 0009-0001-2737-8367" />
+  </a>
+  &nbsp;
+  <a href='https://zenodo.org/search?q=creators.name:"Rukman%20Bernard"' target="_blank">
+    <img src="https://img.shields.io/badge/Zenodo-Research%20Records-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo: Rukman Bernard" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <strong>rukman.research@outlook.com</strong>
+</p>
 
 I’m open to collaborations on:
 
