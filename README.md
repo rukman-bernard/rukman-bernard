@@ -100,11 +100,9 @@ landscape around such systems, without disclosing company IP.
 
 ---
 
-## 📫 Contact
-
-📧 **rukman.research@outlook.com**
 ## 📫 Contact & Profiles
 
+📧 **rukman.research@outlook.com**
 <p align="center">
   <a href="https://www.linkedin.com/in/rukman-bernard" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rukman%20Bernard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Rukman Bernard" />
