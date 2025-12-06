@@ -1,98 +1,115 @@
-# 👋 Hi, I'm Rukman Bernard  
-**Software Engineer | AI & Systems Developer | Emerging Researcher**
+<!-- Typing header (elegant, centred, non-flashy) -->
+<p align="center">
+  <a href="https://github.com/rukman-bernard">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1200&color=2A7FFF&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+%26+Systems+Developer;Emerging+Researcher;UK+HE+Systems+%7C+Automation+%7C+AI" alt="Typing SVG" />
+  </a>
+</p>
 
-I work at the intersection of **software engineering**, **AI-assisted automation**, and **higher education systems**.  
-My current focus is on building production-grade solutions while developing a research portfolio in  
-**UK HE policy, computational automation, and AI-driven system intelligence**.
+---
+
+## 👋 About Me
+
+I'm **Rukman Bernard**, a software engineer and emerging researcher working at the intersection of:
+
+- **Software engineering & automation**
+- **AI-assisted systems**
+- **UK higher education frameworks and academic data models**
+
+My current focus is to build **production-grade systems** while developing a **research portfolio** around  
+UK–Sri Lanka transnational higher education and AI-driven automation.
 
 ---
 
 ## 📘 Published Research
 
-### 🇬🇧🇱🇰 **Transnational Higher Education (TNE) Between the UK and Sri Lanka**  
-A structured analysis of levels, awards, oversight, and regulatory alignment across FHEQ/RQF and Sri Lankan TNE frameworks.
+### 🇬🇧🇱🇰 Transnational Higher Education (TNE) Between the UK and Sri Lanka
 
-This review explores:
-- Cross-border quality assurance  
-- Regulatory equivalence  
-- Programme validation models  
-- Student protection standards  
-- Award frameworks and oversight  
+A structured review exploring:
 
-📄 *v0.2 is archived on Zenodo.*
+- Cross-border quality assurance and oversight  
+- Alignment between FHEQ/RQF and Sri Lankan frameworks  
+- Programme validation and award structures  
+- Student protection and regulatory responsibilities  
 
----
-
-## 🧪 Current Independent Work
-
-### 🎓 **NKA Academic Management System** *(BCS PGD Project)*  
-A research-aligned, modular academic platform built with:
-
-- Laravel 11, Livewire 3, AdminLTE 3  
-- Redis caching & Dockerized environment  
-- Multi-guard authentication  
-- Spatie roles & permissions  
-- UK-aligned academic models (levels, modules, awards, configs)  
-
-This system reflects ongoing research into:
-- Academic data structuring  
-- Assessment pathways  
-- Programme-level design logic  
-- Automated award systems  
-- Evidence-driven system modelling  
+The current version (*v0.2*) is archived on **Zenodo** and forms the foundation for my future work
+on UK–Sri Lanka TNE policy, governance, and system design.
 
 ---
 
-## 💼 Professional Engineering Work  
-*(General Description — No employer IP disclosed)*  
+## 🧪 Independent System Design — NKA Academic Management System
 
-I contribute to enterprise-grade automation systems involving:  
-- AI-assisted decision pipelines  
-- Web intelligence extraction  
-- Multi-stage validation workflows  
-- Python-based automation  
-- Cloud/S3 integrations  
-- Data-driven scoring and evaluation modules  
+**NKA** is my BCS PGD project: a research-aligned academic management platform that models
+UK-style programme structures and awards.
 
-I strictly avoid publishing any proprietary code or system names.  
-Instead, I focus on developing **independent research papers** analysing the broader  
-technical landscape and academic underpinnings of such systems.
+Key aspects:
 
-Upcoming academic work includes:  
-- Two review papers on AI-assisted automation pipelines  
-- One design-science research paper based on independent modelling work  
+- **Tech stack:** Laravel 11, Livewire 3, AdminLTE 3, Redis, Docker, MariaDB  
+- **Academic modelling:** levels, modules, awards, configs, semesters  
+- **Auth & access:** multi-guard authentication, Spatie roles & permissions  
+- **Design goals:** evidence-driven data structures, configurable pathways, and automated award logic  
+
+This work connects **software design decisions** with **UK HE regulatory concepts**, aiming to bridge
+practical implementation and research.
 
 ---
 
-## 🔍 Research Interests  
-- UK Higher Education Regulation (FHEQ/RQF, OfS, QAA)  
-- Cross-border TNE models & award frameworks  
-- AI-assisted automation & decision systems  
-- Computational evaluation metrics  
-- Software engineering design-science methodology  
-- Domain modelling in academic systems  
+## 💼 Professional Engineering Work (High-Level)
+
+In my current industry role, I contribute to **enterprise-grade automation systems** involving:
+
+- AI-assisted decision and evaluation pipelines  
+- Web data extraction and validation workflows  
+- Cloud storage integrations (e.g. S3-style object stores)  
+- Python-based automation and scoring logic  
+
+I **do not** publish any proprietary code or internal system names.  
+Instead, I plan independent **review and research papers** that analyse the broader technical and academic
+landscape around such systems, without disclosing company IP.
 
 ---
 
-## 🛠 Technical Stack  
+## 🔍 Research Interests
+
+- UK higher education regulation (FHEQ/RQF, OfS, QAA)  
+- UK–Sri Lanka **TNE** models and award frameworks  
+- AI-assisted automation and evaluation pipelines  
+- Design-science approaches in software engineering  
+- Academic data structures (programmes, levels, awards, configs)  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,docker,redis,mysql,github,linux&perline=9" alt="Tech stack icons" />
+</p>
+
 **Languages:** Python, PHP, JavaScript, SQL  
 **Frameworks:** Laravel 11, Livewire 3, AdminLTE 3, FastAPI  
-**DevOps:** Docker, Redis, Git, SVN  
+**DevOps & Tools:** Docker, Redis, Git, SVN, Linux  
 **Databases:** MariaDB, MySQL  
-**Research Tools:** LaTeX (Overleaf), Zenodo, PRISMA-style screening  
+**Research Tools:** LaTeX (Overleaf), Zenodo, PRISMA-style screening workflows  
 
 ---
 
-## 🌱 Currently Developing  
-- AI evaluation pipelines (independent research variants)  
-- Research-driven modelling for academic systems  
-- Future publishable artefacts on automation & scoring frameworks  
+## 🌱 Currently Developing
+
+- Further work on **TNE & UK HE** models and mappings  
+- Independent, publishable analyses of **AI-assisted automation** patterns  
+- Extending the NKA system as a **design-science artefact** for future research outputs  
 
 ---
 
-## 📫 Contact  
+## 📫 Contact
+
 📧 **rukman.research@outlook.com**
 
+I’m open to collaborations on:
+
+- UK / EU higher education systems and regulation  
+- AI-assisted automation and evaluation  
+- Design-science research in software engineering  
+
 ---
 
-### ⭐ *“Code builds systems. Research explains them. I aim to master both.”*
+<p align="center"><i>“Code builds systems. Research explains them. I aim to master both.”</i></p>
